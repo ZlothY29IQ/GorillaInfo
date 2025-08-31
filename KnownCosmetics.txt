@@ -1,8 +1,0 @@
-{
-  "LBAAD.": "ADMIN",
-  "LBAAK.": "STICK",
-  "LBADE.": "FINGER PAINTER",
-  "LBANI.": "AA CREATOR",
-  "LBAGS.": "ILLUSTRATOR",
-  "LMAPY.": "FIRE STICK"
-}
