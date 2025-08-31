@@ -6,7 +6,7 @@
   { "Key": "kingbingus.oculusreportmenu", "Value": ["OCULUS REPORT MENU", "707070"] },
   { "Key": "github.com/maroon-shadow/SimpleBoards", "Value": ["SIMPLEBOARDS", "707070"] },
   { "Key": "ObsidianMC", "Value": ["OBSIDIAN", "DC143C"] },
-  { "Key": "hgrehngio889584739_hugb", "Value": ["RESURGENCE", "707070"] },
+  { "Key": "frhiugvhrejughejuruij_fhbuijerbfjkvbrehjbv/uithbuyreghuyhvferwu\_jrjegjuu.ireji/girenhguerhn", "Value": ["RESURGENCE", "707070"] },
   { "Key": "GTrials", "Value": ["gTRIALS", "707070"] },
   { "Key": "github.com/ZlothY29IQ/GorillaMediaDisplay", "Value": ["gMEDIA DISPLAY", "B103FC"] },
   { "Key": "github.com/ZlothY29IQ/TooMuchInfo", "Value": ["TOOMUCHINFO", "B103FC"] },
