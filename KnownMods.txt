@@ -16,7 +16,7 @@
   { "Key": "github.com/ZlothY29IQ/MonkeRealism", "Value": ["MONKEREALISM", "B103FC"] },
   { "Key": "WalkSimulator", "Value": ["WALKSIM ZLOTHY", "B103FC"] },
   { "Key": "Dingus", "Value": ["DINGUS", "B103FC"] },
-  { "Key": "hamburbur", "Value": ["HAMBURBUR", "B103FC"] },
+  { "Key": "https://github.com/arielthemonke/GorillaCraftAutoBuilder", "Value": ["gCRAFT AUTO BUILD", "B103FC"] },
   { "Key": "MediaPad", "Value": ["MEDIAPAD", "B103FC"] },
   { "Key": "GorillaCinema", "Value": ["gCINEMA", "B103FC"] },
   { "Key": "ChainedTogetherActive", "Value": ["CHAINEDTOGETHER", "B103FC"] },
