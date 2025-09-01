@@ -49,7 +49,7 @@
   { "Key": "GorillaTorsoEstimator", "Value": ["TORSOEst", "7AA11F"] },
   { "Key": "Gorilla Track", "Value": ["gTRACK OLD", "7AA11F"] },
   { "Key": "Gorilla Track Packed", "Value": ["gTRACK-PACK", "7AA11F"] },
-  { "Key": "Gorilla Track 1.1.0", "Value": ["gTRACK", "7AA11F"] }
+  { "Key": "Gorilla Track 1.1.0", "Value": ["gTRACK", "7AA11F"] },
   { "Key": "GorillaWatch", "Value": ["GORILLAWATCH", "707070"] },
   { "Key": "InfoWatch", "Value": ["INFOWATCH", "707070"] },
   { "Key": "BananaPhone", "Value": ["BANANAPHONE", "FFFC45"] },
