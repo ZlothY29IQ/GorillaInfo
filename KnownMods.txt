@@ -15,6 +15,7 @@
   { "Key": "github.com/ZlothY29IQ/MonkeClick-CI", "Value": ["MONKECLICK-CI", "B103FC"] },
   { "Key": "github.com/ZlothY29IQ/MonkeRealism", "Value": ["MONKEREALISM", "B103FC"] },
   { "Key": "WalkSimulator", "Value": ["WALKSIM ZLOTHY", "B103FC"] },
+  { "Key": "FPS-Nametags for Zlothy", "Value": ["FPS-TAGS ZLOTHY", "B103FC"] },
   { "Key": "Dingus", "Value": ["DINGUS", "B103FC"] },
   { "Key": "https://github.com/arielthemonke/GorillaCraftAutoBuilder", "Value": ["gCRAFT AUTO BUILD", "B103FC"] },
   { "Key": "MediaPad", "Value": ["MEDIAPAD", "B103FC"] },
