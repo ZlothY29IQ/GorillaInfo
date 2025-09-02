@@ -17,7 +17,7 @@
   { "Key": "WalkSimulator", "Value": ["WALKSIM ZLOTHY", "B103FC"] },
   { "Key": "FPS-Nametags for Zlothy", "Value": ["FPS-TAGS ZLOTHY", "B103FC"] },
   { "Key": "Dingus", "Value": ["DINGUS", "B103FC"] },
-  { "Key": "https://github.com/arielthemonke/GorillaCraftAutoBuilder", "Value": ["gCRAFT AUTO BUILD", "B103FC"] },
+  { "Key": "https://github.com/arielthemonke/GorillaCraftAutoBuilder", "Value": ["gCRAFT AUTO BUILD", "43B581"] },
   { "Key": "MediaPad", "Value": ["MEDIAPAD", "B103FC"] },
   { "Key": "GorillaCinema", "Value": ["gCINEMA", "B103FC"] },
   { "Key": "ChainedTogetherActive", "Value": ["CHAINEDTOGETHER", "B103FC"] },
