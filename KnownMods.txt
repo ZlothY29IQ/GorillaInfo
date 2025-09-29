@@ -63,6 +63,6 @@
   { "Key": "Vivid", "Value": ["VIVID", "DC143C"] },
   { "Key": "CustomMaterial", "Value": ["CUSTOMCOSMETICS", "707070"] },
   { "Key": "cheese is gouda", "Value": ["WHOISTHATMONKE", "707070"] },
-  { "Key": " WhoIsThatMonke Version", "Value": ["WHOISTHATMONKE", "707070"] },
+  { "Key": "WhoIsThatMonke Version", "Value": ["WHOISTHATMONKE", "707070"] },
   { "Key": "I like cheese", "Value": ["RECROOMRIG", "FE8232"] }
 ]
