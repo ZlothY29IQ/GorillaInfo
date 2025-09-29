@@ -1,8 +1,9 @@
 [
   { "Key": "GFaces", "Value": ["gFACES", "707070"] },
   { "Key": "drowsiiiGorillaInfoBoard", "Value": ["gInfo Board", "707070"] },
-  { "Key": "MonkeCosmetics::Material", "Value": ["MonkeCosmetics", "707070"] },
+  { "Key": "MonkeCosmetics::Material", "Value": ["Monke Cosmetics", "707070"] },
   { "Key": "DeeTags", "Value": ["DEE TAGS", "707070"] },
+  { "Key": "GorillaNametags", "Value": ["GORILLA NAMETAGS", "707070"] },
   { "Key": "Boy Do I Love Information", "Value": ["BDIL-INFO", "707070"] },
   { "Key": "NametagsPlusPlus", "Value": ["NAMETAGS++", "707070"] },
   { "Key": "kingbingus.oculusreportmenu", "Value": ["OCULUS REPORT MENU", "707070"] },
