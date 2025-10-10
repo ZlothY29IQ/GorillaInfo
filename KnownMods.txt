@@ -12,6 +12,7 @@
   { "Key": "ObsidianMC", "Value": ["OBSIDIAN", "DC143C"] },
   { "Key": "frhiugvhrejughejuruij_fhbuijerbfjkvbrehjbv/uithbuyreghuyhvferwu\\_jrjegjuu.ireji/girenhguerhn", "Value": ["RESURGENCE", "707070"] },
   { "Key": "GTrials", "Value": ["gTRIALS", "707070"] },
+  { "Key": "usinggphys", "Value": ["gPHYS", "707070"] },
   { "Key": "github.com/ZlothY29IQ/GorillaMediaDisplay", "Value": ["gMEDIA DISPLAY", "B103FC"] },
   { "Key": "github.com/ZlothY29IQ/TooMuchInfo", "Value": ["TOOMUCHINFO", "B103FC"] },
   { "Key": "github.com/ZlothY29IQ/RoomUtils-IW", "Value": ["ROOMUTILS-IW", "B103FC"] },
