@@ -88,4 +88,5 @@
   { "Key": "asteroidlite", "Value": ["ASTEROID LITE", "DC143C"] },
   { "Key": "cokecosmetics", "Value": ["COKE COSMETX", "DC143C"] },
   { "Key": "silliness", "Value": ["SILLINESS", "FFBAFF"] },
+  { "Key": "CoolCustomProperty", "Value": ["Axo's Custom Property", "FFB6FA"] },
 ]
