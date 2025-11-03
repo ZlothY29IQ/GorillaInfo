@@ -33,6 +33,7 @@
   { "Key": "GorillaShirts", "Value": ["SHIRTS", "707070"] },
   { "Key": "GS", "Value": ["OLD SHIRTS", "707070"] },
   { "Key": "genesis", "Value": ["GENESIS", "DC143C"] },
+  { "Key": "ØƦƁƖƬ", "Value": ["ORBIT", "DC143C"] },
   { "Key": "Untitled", "Value": ["UNTITLED", "DC143C"] },
   { "Key": "EmoteWheel", "Value": ["EMOTE", "DC143C"] },
   { "Key": "MistUser", "Value": ["MIST", "DC143C"] },
