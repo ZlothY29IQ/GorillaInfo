@@ -1,0 +1,26 @@
+[
+    {
+        "Key": "LBAAD.",
+        "Value": [ "ADMIN", "FFFFFF" ]
+    },
+    {
+        "Key": "LBAAK.",
+        "Value": [ "STICK", "964B00" ]
+    },
+    {
+        "Key": "LBADE.",
+        "Value": [ "FINGER PAINTER", "00FF00" ]
+    },
+    {
+        "Key": "LBANI.",
+        "Value": [ "AA CREATOR", "40E0D0" ]
+    },
+    {
+        "Key": "LBAGS.",
+        "Value": [ "ILLUSTRATOR", "C76417" ]
+    },
+    {
+        "Key": "LMAPY.",
+        "Value": [ "FIRE STICK", "D73502" ]
+    }
+]
