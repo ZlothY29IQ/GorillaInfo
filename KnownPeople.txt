@@ -96,4 +96,5 @@
   { "Key": "8E25CAA731003004", "Value": "axo" },
   { "Key": "AE10C04744CCF6E7", "Value": "Shadow" },
   { "Key": "63ABF99FF52170E8", "Value": "IIDK" },
+  { "Key": "184F12FF07A0BC9E", "Value": "CHAOSVR" },
 ]
