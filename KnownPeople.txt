@@ -97,4 +97,6 @@
   { "Key": "AE10C04744CCF6E7", "Value": "Shadow" },
   { "Key": "63ABF99FF52170E8", "Value": "IIDK" },
   { "Key": "184F12FF07A0BC9E", "Value": "CHAOSVR" },
+  { "Key": "A2EADA9BE5CF6238", "Value": "MANJO" },
+  { "Key": "6790C05198B8F76B", "Value": "ITZTAPU" },
 ]
