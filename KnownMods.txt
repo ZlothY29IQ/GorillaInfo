@@ -38,6 +38,7 @@
   { "Key": "EmoteWheel", "Value": ["EMOTE", "DC143C"] },
   { "Key": "MistUser", "Value": ["MIST", "DC143C"] },
   { "Key": "ElixirMenu", "Value": ["ELIXIR", "DC143C"] },
+  { "Key": "Elixir", "Value": ["ELIXIR", "DC143C"] },
   { "Key": "elux", "Value": ["ELUX", "DC143C"] },
   { "Key": "VioletFreeUser", "Value": ["VIOLETFREE", "DC143C"] },
   { "Key": "Hidden Menu", "Value": ["HIDDEN", "DC143C"] },
