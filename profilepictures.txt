@@ -3,6 +3,7 @@ ZlothY;24EA3CB4A0106203;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/Zlot
 ZlothY;376C2C7C27C0D613;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/ZlothYLogoPurpleBoarder.png
 ZlothY;96A75B23C8BBB4C9;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/ZlothYLogoPurpleBoarder.png
 ZlothY;AC9E6B9DCA7BAC76;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/ZlothYLogoPurpleBoarder.png
+ZlothY;C77E23EEDAECB338;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/ZlothYLogoPurpleBoarder.png
 Golden;6649141E4C845211;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/golden.png
 Golden;706572060708C655;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/golden.png
 Axo;5D5B4978C1300B24;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/axo.png
