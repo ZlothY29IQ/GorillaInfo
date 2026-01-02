@@ -11,5 +11,5 @@ Axo;8E25CAA731003004;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/axo.png
 PooPooVR;516DBB64CEA52378;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/poop-1fn.png
 Ariel;C41A1A9055417A27;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/ariel.png
 HanSolo;A48744B93D9A3596;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/gouda.png
-HanSolo;FF912EF4590C7E35;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/Screenshot%202025-09-29%20161757.png
+HanSolo;FF912EF4590C7E35;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/hanshittypfp.png
 Kormakur;E249F41EABC2B38E;https://pub-cb5da9bdcafa4950ad90e6f3211eeb95.r2.dev/kormakur.png
