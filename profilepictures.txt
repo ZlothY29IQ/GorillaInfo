@@ -18,3 +18,4 @@ IIDK;63ABF99FF52170E8;https://raw-images.zlothy.uk/goldentrophy.png
 IIDK;63ABF99FF52170E8;https://raw-images.zlothy.uk/goldentrophy.png
 ShibaGT;EFC4565F84A2EA6;https://raw-images.zlothy.uk/shibagt.png
 ShibaGT;EFC4565F84A2EA6;https://raw-images.zlothy.uk/shibagt.png
+GorillaN0t;A2DCB607262258EB;https://raw-images.zlothy.uk/n0t.png
