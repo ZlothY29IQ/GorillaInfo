@@ -9,6 +9,7 @@ Golden;706572060708C655;https://raw-images.zlothy.uk/golden.png
 Axo;5D5B4978C1300B24;https://raw-images.zlothy.uk/axo.png
 Axo;8E25CAA731003004;https://raw-images.zlothy.uk/axo.png
 PooPooVR;516DBB64CEA52378;https://raw-images.zlothy.uk/poop-1fn.png
+PooPooVR;3E175F722BF34FB9;https://raw-images.zlothy.uk/poop-1fn.png
 Ariel;C41A1A9055417A27;https://raw-images.zlothy.uk/ariel.png
 HanSolo;A48744B93D9A3596;https://raw-images.zlothy.uk/gouda.png
 HanSolo;FF912EF4590C7E35;https://raw-images.zlothy.uk/hanshittypfp.png
