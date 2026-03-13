@@ -13,7 +13,10 @@ HanSolo;A48744B93D9A3596;https://raw-images.zlothy.uk/gouda.png
 HanSolo;FF912EF4590C7E35;https://raw-images.zlothy.uk/hanshittypfp.png
 Kormakur;E249F41EABC2B38E;https://raw-images.zlothy.uk/kormakur.png
 Kormakur;7A08AEE19B754D6B;https://raw-images.zlothy.uk/kormakur.png
+Kormakur;F18FB8135CB40572;https://raw-images.zlothy.uk/kormakur.png
 ShibaGT;EFC4565F84A2EA6;https://raw-images.zlothy.uk/shibagt.png
 ShibaGT;5DD755DD4897ECED;https://raw-images.zlothy.uk/shibagt.png
 ShibaGT;DA8EA1E716AE562;https://raw-images.zlothy.uk/shibagt.png
 GorillaN0t;A2DCB607262258EB;https://raw-images.zlothy.uk/n0t.png
+AspectTiber;6B478BFA72097C2E;https://raw-images.zlothy.uk/AspectTiber.png
+TLine;FD6CE5F599154993;https://raw-images.zlothy.uk/TLine.png
