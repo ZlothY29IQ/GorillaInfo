@@ -4,13 +4,13 @@ ZlothY;376C2C7C27C0D613;https://raw-images.zlothy.uk/ZlothYLogoPurpleBoarder.png
 ZlothY;96A75B23C8BBB4C9;https://raw-images.zlothy.uk/ZlothYLogoPurpleBoarder.png
 ZlothY;AC9E6B9DCA7BAC76;https://raw-images.zlothy.uk/ZlothYLogoPurpleBoarder.png
 ZlothY;C77E23EEDAECB338;https://raw-images.zlothy.uk/ZlothYLogoPurpleBoarder.png
+ZlothY;FF912EF4590C7E35;https://raw-images.zlothy.uk/ZlothYLogoPurpleBoarder.png
 Golden;6649141E4C845211;https://raw-images.zlothy.uk/golden.png
 Golden;706572060708C655;https://raw-images.zlothy.uk/golden.png
 PooPooVR;516DBB64CEA52378;https://raw-images.zlothy.uk/poop-1fn.png
 PooPooVR;3E175F722BF34FB9;https://raw-images.zlothy.uk/poop-1fn.png
 Ariel;C41A1A9055417A27;https://raw-images.zlothy.uk/ariel.png
 HanSolo;A48744B93D9A3596;https://raw-images.zlothy.uk/gouda.png
-HanSolo;FF912EF4590C7E35;https://raw-images.zlothy.uk/hanshittypfp.png
 Kormakur;E249F41EABC2B38E;https://raw-images.zlothy.uk/kormakur.png
 Kormakur;7A08AEE19B754D6B;https://raw-images.zlothy.uk/kormakur.png
 Kormakur;F18FB8135CB40572;https://raw-images.zlothy.uk/kormakur.png
