@@ -13,6 +13,41 @@
             "Category": "Utility",
             "DownloadUrl": "https://github.com/hamburbur-org/Gorilla-Notifications/releases/latest/download/GorillaNotifications.dll",
             "FileName": "hamburbur.dll"
-        }
+        },
+        {
+            "Name": "ZlothY Nametag",
+            "Creator": "ZlothY",
+            "Category": "Cosmetic",
+            "DownloadUrl": "https://github.com/ZlothY29IQ/Zlothy-Nametag/releases/latest/download/ZlothYNametag.dll",
+            "FileName": "ZlothYNametag.dll"
+        },
+        {
+            "Name": "Too Much Info",
+            "Creator": "ZlothY",
+            "Category": "Cosmetic",
+            "DownloadUrl": "https://github.com/ZlothY29IQ/TooMuchInfoHanFork/releases/latest/download/TooMuchInfo.dll",
+            "FileName": "TooMuchInfo.dll"
+        },
+        {
+            "Name": "Casting Should Be Free",
+            "Creator": "ZlothY",
+            "Category": "Competitive",
+            "DownloadUrl": "https://github.com/hamburbur-org/Casting-Should-Be-Free/releases/latest/download/CastingShouldBeFree.dll",
+            "FileName": "CastingShouldBeFree.dll"
+        },
+        {
+            "Name": "Walk Simulator",
+            "Creator": "ZlothY",
+            "Category": "Gameplay",
+            "DownloadUrl": "https://github.com/ZlothY29IQ/walksimulator/releases/latest/download/WalkSimulator.dll",
+            "FileName": "WalkSimulator.dll"
+        },
+        {
+            "Name": "ZlothY Dances",
+            "Creator": "ZlothY",
+            "Category": "Gameplay",
+            "DownloadUrl": "https://github.com/ZlothY29IQ/zlothydances/releases/latest/download/ZlothYDances.dll",
+            "FileName": "ZlothYDances.dll"
+        },
     ]
 }

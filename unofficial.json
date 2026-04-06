@@ -1,0 +1,74 @@
+{
+    "mods": [
+        {
+            "Name": "Seralyth",
+            "Creator": "KingOfNetflix",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
+            "FileName": "Seralyth-Menu.dll"
+        },
+        {
+            "Name": "Utilla",
+            "Creator": "KingOfNetflix",
+            "Category": "Utility",
+            "DownloadUrl": "https://github.com/Seralyth/Utilla/releases/latest/download/Utilla.dll",
+            "FileName": "Utilla.dll"
+        },
+        {
+            "Name": "Chqser Media",
+            "Creator": "Lyfe",
+            "Category": "Utility",
+            "DownloadUrl": "https://github.com/lyfedev-csharp/ChqserMedia/releases/lastest/download/ChqserMedia.dll",
+            "FileName": "ChqserMedia.dll"
+        },
+        {
+            "Name": "FOAA",
+            "Creator": "Industry",
+            "Category": "Quality of Life",
+            "DownloadUrl": "https://github.com/ResurgenceMenu/FOAA/releases/latest/download/FOAA.dll",
+            "FileName": "FOAA.dll"
+        },
+        {
+            "Name": "ARS",
+            "Creator": "Industry",
+            "Category": "Quality of Life",
+            "DownloadUrl": "https://github.com/AutoReportSystem/ARS-Files/releases/latest/download/ARS.dll",
+            "FileName": "ARS.dll"
+        },
+        {
+            "Name": "Breeze",
+            "Creator": "Test",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/Pugsluv3r/Breeze/releases/latest/download/Breeze.dll",
+            "FileName": "Breeze.dll"
+        },
+        {
+            "Name": "Breeze",
+            "Creator": "Test",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/Pugsluv3r/Breeze/releases/latest/download/Breeze.dll",
+            "FileName": "Breeze.dll"
+        },
+        {
+            "Name": "CosmetX",
+            "Creator": "iiDk the actual",
+            "Category": "Cosmetic",
+            "DownloadUrl": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/latest/download/ForeverCosmetx.dll",
+            "FileName": "ForeverCosmetx.dll"
+        },
+        {
+            "Name": "Elixir",
+            "Creator": "Menker",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll",
+            "FileName": "Elixir.dll"
+        },
+        {
+            "Name": "Gorilla Trials",
+            "Creator": "Lapis",
+            "Category": "Gameplay",
+            "DownloadUrl": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll",
+            "FileName": "GorillaTrials.dll"
+        },
+    ]
+}
