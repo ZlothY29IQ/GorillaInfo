@@ -1,20 +1,18 @@
 {
     "mods": [
         {
-            "name": "hamburbur",
-            "creator": "ZlothY",
-            "category": "Menu",
-            "description": "The Best free menu out there",
-            "version": "6.2.0",
-            "downloadUrl": "https://discord.com/channels/1395845657343951022/1476261826932248718/1489279281828859934"
+            "Name": "hamburbur",
+            "Creator": "ZlothY",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/hamburbur-org/hamburbur/releases/latest/download/hamburbur.dll",
+            "FileName": "hamburbur.dll"
         },
         {
-            "name": "Gorilla Notifications",
-            "creator": "ZlothY",
-            "category": "Utility",
-            "description": "Notification Library",
-            "version": "1.0.2",
-            "downloadUrl": "https://github.com/hamburbur-org/Gorilla-Notifications/releases/latest/download/GorillaNotifications.dll"
+            "Name": "Gorilla Notifications",
+            "Creator": "ZlothY",
+            "Category": "Utility",
+            "DownloadUrl": "https://github.com/hamburbur-org/Gorilla-Notifications/releases/latest/download/GorillaNotifications.dll",
+            "FileName": "hamburbur.dll"
         }
     ]
 }
