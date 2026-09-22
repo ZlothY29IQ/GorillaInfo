@@ -1,18 +1,18 @@
 {
     "mods": [
         {
+            "Name": "Starlight Refraction",
+            "Creator": "N0T",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/gorillan0t/SLR/releases/latest/download/SLR.dll",
+            "FileName": "SLR.dll"
+        },
+        {
             "Name": "Seralyth",
             "Creator": "KingOfNetflix",
             "Category": "Menu",
             "DownloadUrl": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
             "FileName": "Seralyth-Menu.dll"
-        },
-        {
-            "Name": "Utilla",
-            "Creator": "KingOfNetflix",
-            "Category": "Utility",
-            "DownloadUrl": "https://github.com/Seralyth/Utilla/releases/latest/download/Utilla.dll",
-            "FileName": "Utilla.dll"
         },
         {
             "Name": "Chqser Media",
@@ -44,17 +44,10 @@
         },
         {
             "Name": "CosmetX",
-            "Creator": "iiDk the actual",
+            "Creator": "iiDk & PooPooVr",
             "Category": "Cosmetic",
-            "DownloadUrl": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/latest/download/ForeverCosmetx.dll",
+            "DownloadUrl": "https://github.com/iiDkRemastered/ForeverCosmetxx/releases/latest/download/ForeverCosmetx.dll",
             "FileName": "ForeverCosmetx.dll"
-        },
-        {
-            "Name": "Elixir",
-            "Creator": "Menker",
-            "Category": "Menu",
-            "DownloadUrl": "https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll",
-            "FileName": "Elixir.dll"
         },
         {
             "Name": "Gorilla Trials",
@@ -62,6 +55,13 @@
             "Category": "Gameplay",
             "DownloadUrl": "https://github.com/LapisGit/GorillaTrials/releases/latest/download/GorillaTrials.dll",
             "FileName": "GorillaTrials.dll"
+        },
+        {
+            "Name": "Sharpz Reborn",
+            "Creator": "Leafii",
+            "Category": "Menu",
+            "DownloadUrl": "https://github.com/leafiithecoder/SharpzReborn/releases/latest/download/SharpzReborn.dll",
+            "FileName": "SharpzReborn.dll"
         }
     ]
 }
