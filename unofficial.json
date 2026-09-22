@@ -1,13 +1,6 @@
 {
     "mods": [
         {
-            "Name": "Starlight Refraction",
-            "Creator": "N0T",
-            "Category": "Menu",
-            "DownloadUrl": "https://github.com/gorillan0t/SLR/releases/latest/download/SLR.dll",
-            "FileName": "SLR.dll"
-        },
-        {
             "Name": "Seralyth",
             "Creator": "KingOfNetflix",
             "Category": "Menu",
